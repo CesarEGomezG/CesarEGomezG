@@ -6,7 +6,7 @@ As a professional, I'm a Full Stack JavaScript Developer passionate about creati
 As a person, I like to work in startups because I like being challenged, constantly learning new things, innovating creating new products and features, walk not traveled roads, and if there isn't a road drawing one and then following it to achieve the team and organization objectives in the best way possible.
 
 Facts about me:
-* I have completed more than 20 online courses to learn new technologies that subsequently I applied to the personal and university projects I have worked on.
+* I have completed more than 20 online courses to learn new technologies that subsequently I applied to the personal and university projects I have worked on. I leave you my Platzi profile where I took those courses: https://platzi.com/p/CesarGomezG/
 * I'm at the point where I feel I already master the technology stack I use, so now I'm looking to learn new technologies to make more interesting my work and move to the next level as a developer.
 * Currently I'm working to improve my soft skills. I think they are as important as technical skills. I'm focusing in effective communication and leadership.
 
@@ -26,18 +26,3 @@ There are two categories: university projects that I have worked on teams, and p
 #### Adventure
 
 #### Read
-
-<!--
-**CesarEGomezG/CesarEGomezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
