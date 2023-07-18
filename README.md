@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there. I'm Cesar Gomez 👋
+
+## About me
+I'm a Full Stack JavaScript Developer
 
 <!--
 **CesarEGomezG/CesarEGomezG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
