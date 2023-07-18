@@ -1,4 +1,4 @@
-### Hi there. I'm Cesar Gomez 👋
+# Hi there. I'm Cesar Gomez 👋
 
 ## About me
 I'm a Full Stack JavaScript Developer
