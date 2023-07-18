@@ -16,6 +16,7 @@ There are two categories: university projects that I have worked on teams, and p
 ### University projects
 
 #### Academy
+Video showing the project: https://youtu.be/mUbVLs43uQU
 
 #### Park
 
