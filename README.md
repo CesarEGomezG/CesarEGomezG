@@ -30,17 +30,8 @@ Video showing the project: https://youtu.be/mUbVLs43uQU
 
 | **Languages** | **Front End** | **Mobile** |
 | :---: | :---: | :---: |
-| ![JS](https://img.shields.io/badge/JavaScript-626370?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TS](https://img.shields.io/badge/TypeScript-626370?style=for-the-badge&logo=typescript&logoColor=3178C6) | ![React](https://img.shields.io/badge/React.js-626370?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-626370?style=for-the-badge&logo=Redux&logoColor=764ABC) ![Next](https://img.shields.io/badge/Next.js-626370?style=for-the-badge&logo=next.js&logoColor=000000) ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-626370?style=for-the-badge&logo=apollographql&logoColor=311C87) | ![Native](https://img.shields.io/badge/React_Native-626370?style=for-the-badge&logo=react&logoColor=ffffff) |
+| ![JS](https://img.shields.io/badge/JavaScript-626370?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TS](https://img.shields.io/badge/TypeScript-626370?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/Python-626370?style=for-the-badge&logo=Python&logoColor=3776AB) | ![React](https://img.shields.io/badge/React.js-626370?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-626370?style=for-the-badge&logo=Redux&logoColor=764ABC) ![Next](https://img.shields.io/badge/Next.js-626370?style=for-the-badge&logo=next.js&logoColor=000000) ![Apollo](https://img.shields.io/badge/Apollo_GraphQL-626370?style=for-the-badge&logo=apollographql&logoColor=311C87) ![MUI](https://img.shields.io/badge/Material_UI-626370?style=for-the-badge&logo=MUI&logoColor=007FFF) | ![Native](https://img.shields.io/badge/React_Native-626370?style=for-the-badge&logo=react&logoColor=ffffff) |
 
 | **Back End** | **ORMs** | **Databases** | **Testing** |
 | :---: | :---: | :---: | :---: |
 | ![Node](https://img.shields.io/badge/Node.js-626370?style=for-the-badge&logo=Node.js&logoColor=339933) ![Express](https://img.shields.io/badge/Express-626370?style=for-the-badge&logo=Express&logoColor=000000) ![Graph](https://img.shields.io/badge/GraphQL-626370?style=for-the-badge&logo=GraphQL&logoColor=E10098) | ![Prisma](https://img.shields.io/badge/Prisma-626370?style=for-the-badge&logo=Prisma&logoColor=2D3748) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-626370?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1) ![Mongo](https://img.shields.io/badge/MongoDB-626370?style=for-the-badge&logo=MongoDB&logoColor=47A248) | ![Jest](https://img.shields.io/badge/Jest-626370?style=for-the-badge&logo=Jest&logoColor=C21325) ![Cypress](https://img.shields.io/badge/Cypress-626370?style=for-the-badge&logo=Cypress&logoColor=17202C) |
-
-
-
-
-
-
-
-
-
