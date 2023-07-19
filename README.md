@@ -15,7 +15,8 @@ There are two categories: university projects that I have worked on teams, and p
 ### University projects
 
 #### Academy
-Video showing the project: https://youtu.be/mUbVLs43uQU
+My team and I made a web application that organized all the learning resources a company had for its employees. They have a lot of learning resources in many areas and different specializations, but they were disorganized and the employees didn't know how to find specifically which they need to learn in a specific role and moment. We made the app "Academy" to give this company a place where it was able to had all this contents and learning resources well organized to facilitate its employees to find what they need.
+Here's a video showing the project: https://youtu.be/mUbVLs43uQU
 
 #### Park
 
