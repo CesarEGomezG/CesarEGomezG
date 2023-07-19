@@ -7,7 +7,6 @@ As a person, I like to work in startups because I like being challenged, constan
 
 ### Facts about me:
 * I have completed more than 20 online courses to learn new technologies that subsequently I applied to the personal and university projects I have worked on. I leave you my Platzi profile where I took those courses: https://platzi.com/p/CesarGomezG/
-* I'm at the point where I feel I already master the technology stack I use, so now I'm looking to learn new technologies to make more interesting my work and move to the next level as a developer.
 * Currently I'm working to improve my soft skills. I think they are as important as technical skills. I'm focusing in effective communication and leadership.
 
 ## Projects I have worked on
