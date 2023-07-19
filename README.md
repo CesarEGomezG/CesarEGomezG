@@ -21,13 +21,17 @@ My team and I made a web application that organized all the learning resources a
 
 Here's a video showing the project: https://youtu.be/mUbVLs43uQU
 
-#### Park
-
 ### Personal projects
 
 #### Adventure
 
 #### Read
+
+I made this project after finishing studying some of the courses I took about web development with JavaScript, both Front end and Back end. It helped me to learn and master those technologies through practice.
+
+![image](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/ef6d48b0-ef8c-4df9-8332-f946bdd304f2)
+
+Here's the link to the deployed app: https://read-eight.vercel.app/
 
 ## Technologies
 
