@@ -25,7 +25,7 @@ Here's a video showing the project: https://youtu.be/mUbVLs43uQU
 
 #### Adventure
 
-![adventure](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/cfb666f7-d399-40f2-a362-f11eb59b8846)
+![adventure](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/ba2b2398-dc5d-4a2c-9a3e-7a6ec49dd9e1)
 
 #### Read
 
