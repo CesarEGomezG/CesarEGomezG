@@ -25,6 +25,8 @@ Here's a video showing the project: https://youtu.be/mUbVLs43uQU
 
 #### Adventure
 
+![adventure](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/cfb666f7-d399-40f2-a362-f11eb59b8846)
+
 #### Read
 
 I made this project after finishing studying some of the courses I took about web development with JavaScript, both Front end and Back end. It helped me to learn and master those technologies through practice.
