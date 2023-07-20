@@ -37,7 +37,9 @@ The API contains all the endpoints the Mobile App and the Web App interact with,
 
 #### Read
 
-This project consisted of making a web app quite similar to YouTube as a concept but with readings instead of videos.  Read is practically a "YouTube of readings". I made this project after finishing studying some of the courses I took about web development with JavaScript, both Front end and Back end. It helped me to learn and master those technologies through practice. I also made this project with React.js and Express.js. With this project I also could learn how to create a login, sign up and authentication with JSON Web Tokens to manage permissions in the system with Passport.js and I learned how to use MongoDB, a NoSQL database.
+This project consisted of making a web app quite similar to YouTube as a concept but with readings instead of videos. Read is practically a "YouTube of readings". It has a main page, a page for a reading, a blog page, login and sing up, and I worked in a page where the user could write a reading.
+
+Read was my first personal project and I made it after finishing studying some of the courses I took about web development with JavaScript, both Front end and Back end. It helped me to learn and master those technologies through practice. I also made this project with React.js and Express.js. With this project I also could learn how to create a login, sign up and authentication with JSON Web Tokens to manage permissions in the system with Passport.js and I learned how to use MongoDB, a NoSQL database.
 
 ![image](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/ef6d48b0-ef8c-4df9-8332-f946bdd304f2)
 
