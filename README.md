@@ -15,7 +15,9 @@ There are two categories: university projects that I have worked on teams, and p
 ### University projects
 
 #### Academy
-My team and I made a web application that organized all the learning resources a company had for its employees. They have a lot of learning resources in many areas and different specializations, but they were disorganized and the employees didn't know how to find specifically which they need to learn in a specific role and moment. We made the app Academy (also called Building Liners) to give this company a place where it was able to had all this contents and learning resources well organized to facilitate its employees to find what they need.
+My team and I made a web application that organized all the learning resources a company had for its employees. They have a lot of learning resources in many areas and different specializations, but they were disorganized and the employees didn't know how to find specifically what they need to learn in a specific role and moment. We made the app Academy (also called Building Liners) to give this company a place where it was able to have all this content and learning resources well organized to facilitate its employees to find what they need.
+
+My role was a combination between Full Stack Developer and Product Manager. I helped my team to clarify what we were going to create as a project and I also helped to develop some features of the system: showing all the information on the main page, creating, modifying, and deleting learning paths routes, adding learning paths routes into categories, and deploying the app with Vercel. I made these features both in the front end with React and Next.js and in the back end with Node.js and something similar to Express.js.
 
 ![academy](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/6ade3c6b-4d89-4875-9d60-6b9ed044f0d4)
 
@@ -29,12 +31,14 @@ Here's a video showing the project: https://youtu.be/mUbVLs43uQU
 
 #### Read
 
+This project consisted of making a web app quite similar to YouTube as a concept but with readings instead of videos.  Read is practically a "YouTube of readings". 
+
 I made this project after finishing studying some of the courses I took about web development with JavaScript, both Front end and Back end. It helped me to learn and master those technologies through practice.
 
 ![image](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/ef6d48b0-ef8c-4df9-8332-f946bdd304f2)
 
 Here's the link to the deployed app: https://read-eight.vercel.app/
-This is the link of the repository with the code I made for this project: https://github.com/CesarEGomezG/read
+This is the link to the repository with the code I made for this project: https://github.com/CesarEGomezG/read
 
 ## Technologies
 
