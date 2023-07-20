@@ -17,7 +17,7 @@ There are two categories: university projects that I have worked on teams, and p
 #### Academy
 My team and I made a web application that organized all the learning resources a company had for its employees. They have a lot of learning resources in many areas and different specializations, but they were disorganized and the employees didn't know how to find specifically what they need to learn in a specific role and moment. We made the app Academy (also called Building Liners) to give this company a place where it was able to have all this content and learning resources well organized to facilitate its employees to find what they need.
 
-My role was a combination between Full Stack Developer and Product Manager. I helped my team to clarify what we were going to create as a project and I also helped to develop some features of the system: showing all the information on the main page, creating, modifying, and deleting learning paths routes, adding learning paths routes into categories, and deploying the app with Vercel. I made these features both in the front end with React and Next.js and in the back end with Node.js and something similar to Express.js.
+My role was a combination between Full Stack Developer and Product Manager. I helped my team to clarify what we were going to create as a project and I also helped to develop some features of the system: showing all the information on the main page, creating, modifying, and deleting learning paths routes, adding learning paths routes into categories, and deploying the app with Vercel. I made as much React.js components as Express.js API endpoints, and this was the first time I designed and wrote unit tests and end to end tests with Jest and Cypress.
 
 ![academy](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/6ade3c6b-4d89-4875-9d60-6b9ed044f0d4)
 
@@ -27,13 +27,17 @@ Here's a video showing the project: https://youtu.be/mUbVLs43uQU
 
 #### Adventure
 
+This is my more recent and ambitious project so long. It consists in three aplications: a Mobile App made with React Native, a Web App made with Next.js and API made with Express, all of these are connected to each other and was write with TypeScript. In addition I designed all the App interfaces by myself with Figma before start coding the project.
+
+The main application is the Mobile App, and it consists in an educative app made for elementary school kids where they could find educative and entretaining content and then answer dynamic quizzes to earn points.
+The Web App was planned to be used only by the people who create and manage the content of the app. If you authenticate yourself as some of these people, you could create, modifiy and delete all the courses, lessons, contents and quizzes that there are in the Mobile App. 
+The API contains all the endpoints the Mobile App and the Web App interact with, and also save metrics of how the users interact with the Mobile App. With this project I learned how to use TypeScript and an ORM like Prisma. 
+
 ![adventure](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/ba2b2398-dc5d-4a2c-9a3e-7a6ec49dd9e1)
 
 #### Read
 
-This project consisted of making a web app quite similar to YouTube as a concept but with readings instead of videos.  Read is practically a "YouTube of readings". 
-
-I made this project after finishing studying some of the courses I took about web development with JavaScript, both Front end and Back end. It helped me to learn and master those technologies through practice.
+This project consisted of making a web app quite similar to YouTube as a concept but with readings instead of videos.  Read is practically a "YouTube of readings". I made this project after finishing studying some of the courses I took about web development with JavaScript, both Front end and Back end. It helped me to learn and master those technologies through practice. I also made this project with React.js and Express.js. With this project I also could learn how to create a login, sign up and authentication with JSON Web Tokens to manage permissions in the system with Passport.js and I learned how to use MongoDB, a NoSQL database.
 
 ![image](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/ef6d48b0-ef8c-4df9-8332-f946bdd304f2)
 
