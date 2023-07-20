@@ -32,6 +32,7 @@ I made this project after finishing studying some of the courses I took about we
 ![image](https://github.com/CesarEGomezG/CesarEGomezG/assets/76894869/ef6d48b0-ef8c-4df9-8332-f946bdd304f2)
 
 Here's the link to the deployed app: https://read-eight.vercel.app/
+This is the link of the repository with the code I made for this project: https://github.com/CesarEGomezG/read
 
 ## Technologies
 
